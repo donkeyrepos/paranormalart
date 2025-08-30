@@ -4,4 +4,5 @@ Paranormal Art is a collection of generated abstract art that has been generated
 
 ![alt tag](https://raw.githubusercontent.com/donkeyrepos/paranormalart/master/SCREENSHOT.jpg)
 
-OpenSea URL: https://opensea.io/collection/paranormalart
+<B>OpenSea URL</b>: https://opensea.io/collection/paranormalart<br>
+<b>Mastodon URL (bot)</b>: https://mobiquotes.de/@paranormalart
